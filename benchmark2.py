@@ -13,4 +13,4 @@ for i in range(2*(10**9)):
 
 end = time.time()
 time_taken = end - start
-print(f"Integer operation benchmark took {time_taken} seconds")
+print(f"Float operation benchmark took {time_taken} seconds")
